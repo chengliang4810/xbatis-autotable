@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/auto_table
+    username: root
+    password: P@ssw0rd
+server:
+  port: 9999
